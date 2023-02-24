@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dev Shah and I'm currently an Undergrad studying Computer Science at the University of Toronto. Currently, I'm a Machine Learning Researcher at [Dr. Tyrrell's](https://www.tyrrell4innovation.ca/people/) lab, researching into leveraging Artificial Intelligence into medical imaging 🔬. My main interests lie in the field of Artifical Intelligence and Machine Learning; building models to create a genuine impact on the worlds biggest problems. To keep up with me, I write articles here, & I write personal bi-monthly newsletters here. 
+My name is [Dev Shah](https://devshah.ca) and I'm currently an Undergrad studying Computer Science at the University of Toronto. Currently, I'm a Machine Learning Researcher at [Dr. Tyrrell's](https://www.tyrrell4innovation.ca/people/) lab, researching into leveraging Artificial Intelligence into medical imaging 🔬. My main interests lie in the field of Artifical Intelligence and Machine Learning; building models to create a genuine impact on the worlds biggest problems. To keep up with me, I write articles [here](https://medium.com/@devshahs) (usually about AI), & I write personal bi-monthly newsletters [here](https://devshah.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile). 
 
 
 ### 🤝 Connect with me!<br>
